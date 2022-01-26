@@ -35,3 +35,5 @@ https://github.com/supercatex/ML_Examples
 ## Others
 
 https://github.com/supercatex/code
+
+https://github.com/supercatex/openvino_notebooks/
