@@ -37,3 +37,6 @@ https://github.com/supercatex/ML_Examples
 https://github.com/supercatex/code
 
 https://github.com/supercatex/openvino_notebooks/
+
+https://github.com/hcngdaniel/health-code-color-detector
+
