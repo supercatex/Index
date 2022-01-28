@@ -40,3 +40,6 @@ https://github.com/supercatex/openvino_notebooks/
 
 https://github.com/hcngdaniel/health-code-color-detector
 
+https://github.com/hcngdaniel/neural_networks_ros
+
+
