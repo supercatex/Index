@@ -42,4 +42,6 @@ https://github.com/hcngdaniel/health-code-color-detector
 
 https://github.com/hcngdaniel/neural_networks_ros
 
+https://github.com/supercatex/Wordle
+
 
