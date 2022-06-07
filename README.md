@@ -6,6 +6,10 @@ https://github.com/supercatex/home_edu
 
 https://github.com/supercatex/mr_voice
 
+https://github.com/supercatex/mr_dnn
+
+https://github.comm/supercatex/mr_usbcam
+
 https://github.com/FablabHome/PCMS_home_robotics
 
 https://github.com/FablabHome/home_robot_msgs
