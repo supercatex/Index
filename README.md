@@ -20,6 +20,8 @@ https://github.com/supercatex/YourTTS
 
 https://github.com/supercatex/home_robotics
 
+https://github.com/brian2009VV/robotic_arm
+
 ## OpenCV
 
 https://github.com/supercatex/OpenCV_Tutorial
